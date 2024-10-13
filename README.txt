@@ -1,3 +1,6 @@
+NOTA: es posible que dependiendo de las versiones de las órdenes utilizadas
+no se obtenga el resultado esperado.
+
 # cutwuolah.sh
 Script para bash que elimina el prefijo "wuolah-free-" de los ficheros descargados desde wuolah.
 
